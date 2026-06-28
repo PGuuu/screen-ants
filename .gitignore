@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Runtime files
+error.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Scratch / experiments
+candidate_*.png
+icon_*_cropped.png
+test_*.py
+make_ico.py
+restore.py
+
+# Old launchers with hard-coded machine paths (exe is shipped via Releases)
+install.bat
+run_ants.bat
+config.json
