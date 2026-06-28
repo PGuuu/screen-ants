@@ -72,6 +72,11 @@ pyinstaller --onefile --windowed --name ScreenAnts --icon ant.ico --add-data "an
 
 The exe is produced in `dist/ScreenAnts.exe`.
 
+## Contributors
+
+- PGuuu - creator and maintainer
+- OpenAI Codex - AI coding collaborator
+
 ## License
 
 [MIT](LICENSE) - free to use, modify and share.
